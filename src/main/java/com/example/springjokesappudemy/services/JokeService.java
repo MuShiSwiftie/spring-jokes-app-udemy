@@ -1,4 +1,4 @@
-package com.example.springjokesappudemy.service;
+package com.example.springjokesappudemy.services;
 
 public interface JokeService {
     String getJoke();
